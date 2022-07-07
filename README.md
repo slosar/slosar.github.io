@@ -1,3 +1,3 @@
-# slosar.github.io
+### slosar.github.io
 
-Personal page.
+This is a single-page personal page.
