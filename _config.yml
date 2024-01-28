@@ -3,6 +3,7 @@ logo: /assets/img/self.jpg
 description: Anže Slosar's home page
 google_analytics: 
 show_downloads: false
+markdown: GFM
 theme: jekyll-theme-minimal
 
 gems:
