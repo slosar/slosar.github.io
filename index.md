@@ -12,11 +12,13 @@ _Content:_
  * [BNL Staff page](https://www.bnl.gov/staff/anze)
  * [Publications](http://arxiv.org/find/grp_physics/1/au:+Slosar/0/1/0/all/0/1)
  * [Poach this great guy](assets/doc/cv.pdf)
- * [Music I listen to](http://www.last.fm/user/slosar/library)
+ * [Music I listen to](https://www.last.fm/user/slosar/library)
+ * [Music I play with](https://musescore.com/user/54207456)
+ * [Excess thoughts I write](https://slosar.substack.com)
  * [Git I git to](http://www.github.com/slosar)
  * [Flash game](http://www.slosar.com/sloni)*
- * [My wife's website](http://www.wa-analyst.com/)
- * [Anniversary calculator](http://slosar.com/cgi-bin/anni.py)
+ * [My wife's website](https://www.bovcon.com/) ([substack](https://bovcon.substack.com))
+ * [Anniversary calculator](https://slosar.com/cgi-bin/anni.py)
 	
 <br>
 *Flash game is defunct because flash is defunct. Can you help me convert .fla into .swf?
