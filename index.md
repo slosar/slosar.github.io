@@ -14,7 +14,6 @@ _Content:_
  * [Poach this great guy](assets/doc/cv.pdf), [LinkedIn](https://www.linkedin.com/in/aslosar/)
  * [Music I listen to](https://www.last.fm/user/slosar/library)
  * [Music I play with](https://musescore.com/user/54207456)
- * [Excess thoughts I write](https://slosar.substack.com)
  * [Git I git to](http://www.github.com/slosar)
  * [Flash game](http://www.slosar.com/sloni)*
  * [My wife's website](https://www.bovcon.com/), ([substack](https://bovcon.substack.com))
